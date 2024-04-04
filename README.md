@@ -1,7 +1,7 @@
 
 # React Movie Slider
 
-React Movie Slider is a dynamic React-based web application that fetches the latest movie data from https://omdbapi.com?apikey=fe2f6c44. Featuring a responsive design and organized categories with flexbox, users can seamlessly explore diverse movie options
+React Movie Slider is a dynamic React-based web application that fetches the latest movie data from https://omdbapi.com?apikey=fe2f6c44. Featuring a responsive design and organized categories with flexbox, users can seamlessly explore diverse movie options.
 
 ## Demo
 
